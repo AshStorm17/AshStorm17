@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dipesh Patidar</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aashmun-g-73bba6258/">
@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
 </div>
-
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshStorm17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
