@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aashmun Guptar</h1>
+<h1 align="center">Hi 👋, I'm Aashmun Gupta</h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aashmun-g-73bba6258/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
