@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Aashmun Gupta</h1>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aashmun-g-73bba6258/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +10,9 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=AshStorm17&style=flat-square&color=blue" alt=""/>
+
+<h1 align="center">Hi 👋, I'm Aashmun Gupta</h1>
 
 ### 🛠️: Languages and Tools :
 <div>
