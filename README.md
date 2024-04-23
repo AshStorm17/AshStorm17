@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=AshStorm17&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Aashmun Gupta</h1>
 
