@@ -11,7 +11,7 @@
   </a>
   <a href="https://www.instagram.com/aashmun_gupta/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
+  </a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AshStorm17&style=flat-square&color=blue" alt=""/>
