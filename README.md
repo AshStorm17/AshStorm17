@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/aashmun_gupta/?next=%2F">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 </div>
 <div align="center">
@@ -43,7 +43,7 @@
 
 <div id="used" align="center">
   
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshStorm17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshStorm17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
