@@ -9,7 +9,7 @@
   <a href="https://twitter.com/AashmunG">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/aashmun_gupta/?next=%2F">
+  <a href="https://www.instagram.com/aashmun_gupta/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 </div>
