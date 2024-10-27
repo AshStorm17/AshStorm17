@@ -17,8 +17,14 @@
 <img src="https://komarev.com/ghpvc/?username=AshStorm17&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Aashmun Gupta</h1>
+<h1 align="center">Hi there! 👋 I’m Aashmun Gupta</h1>
 
+🎓 3rd-year Computer Science and Engineering Student at IIT Gandhinagar
+
+🚀 Passionate about Machine Learning, LLMs, problem-solving, and building impactful projects
+
+
+I’m always excited to collaborate on interesting projects and explore new technologies. Feel free to check out my repositories and reach out!
 <hr>
 
 ### 🛠️: Languages and Tools :
